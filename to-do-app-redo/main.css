@@ -1,0 +1,13 @@
+body.mdl-layout {
+  margin: auto;
+}
+
+.listView {
+  min-height: 500px;
+  width: 100%;
+}
+
+.mdl-card__title-text {
+  padding-top: 30px;
+  font-weight: 400;
+}
